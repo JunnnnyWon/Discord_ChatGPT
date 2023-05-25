@@ -10,7 +10,7 @@ from discord import Member
 from discord.ext import commands
 import os
 import sys
-YOUR_API_KEY = "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"
+YOUR_API_KEY = ""
 from dotenv import load_dotenv
 from datetime import datetime, timedelta
 import pyaudio
