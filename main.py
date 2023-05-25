@@ -40,7 +40,7 @@ def main():
     message.channel.send(chatGPT(prompt).strip())
 
 
-token = "MTA2MTYwNjA0ODMxOTk1MDg1OA.GdceeI.GCWBsjxr6kpa6LvsDNplasG-WOR5ZwMBIl1iOo"
+token = ""
 bot = commands.Bot(command_prefix='!')
 
 
